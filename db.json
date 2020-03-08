@@ -1,0 +1,46 @@
+{
+  "recipes": [
+    {
+      "imageUrl": "/_nuxt/assets/mockImages/chocolate-chip-blondies.jpg",
+      "imageAlt": "Coffee Chocolate Chip Blondies image",
+      "name": "Coffee Chocolate Chip Blondies",
+      "tag": "Healthy",
+      "description": "Chunks of fresh cranberries and dark, milk, and white chocolate chips dress up oatmeal cookies for the holidays."
+    },
+    {
+      "imageUrl": "/_nuxt/assets/mockImages/chocolate-chip-blondies.jpg",
+      "imageAlt": "Chashu Summer Rolls image",
+      "name": "Chashu Summer Rolls",
+      "tag": "Sweet",
+      "description": "This cake can be prepared one day ahead. Sweetened cream of coconut is available in the liquor section of most supermarkets."
+    },
+    {
+      "imageUrl": "/_nuxt/assets/mockImages/chocolate-chip-blondies.jpg",
+      "imageAlt": "Tropical Fruit Salad image",
+      "name": "Tropical Fruit Salad",
+      "tag": "Fresh",
+      "description": "Lay the puff pastry over the skillet for a pretty look. Use any brand; the weight may vary, but either way you'll have enough to work with."
+    },
+    {
+      "imageUrl": "/_nuxt/assets/mockImages/chocolate-chip-blondies.jpg",
+      "imageAlt": "Gluten-Free Almond Cake with Berries image",
+      "name": "Gluten-Free Almond Cake with Berries",
+      "tag": "Healthy",
+      "description": "Strawberry salad is a classic Southern side that works for any occasion."
+    },
+    {
+      "imageUrl": "/_nuxt/assets/mockImages/chocolate-chip-blondies.jpg",
+      "imageAlt": "Strawberry Oat Muffins image",
+      "name": "Strawberry Oat Muffins",
+      "tag": "Sweet",
+      "description": "Chunks of fresh cranberries and dark, milk, and white chocolate chips dress up oatmeal cookies for the holidays."
+    },
+    {
+      "imageUrl": "/_nuxt/assets/mockImages/chocolate-chip-blondies.jpg",
+      "imageAlt": "Pumpkin Kale Patties with Coconut Cilantro Rice image",
+      "name": "Pumpkin Kale Patties with Coconut Cilantro Rice",
+      "tag": "Fresh",
+      "description": "This cake can be prepared one day ahead. Sweetened cream of coconut is available in the liquor section of most supermarkets."
+    }
+  ]
+}
