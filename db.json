@@ -1,6 +1,7 @@
 {
   "recipes": [
     {
+      "id": "coffee-chocolate-chip-blondies",
       "imageUrl": "/_nuxt/assets/mockImages/chocolate-chip-blondies.jpg",
       "imageAlt": "Coffee Chocolate Chip Blondies image",
       "name": "Coffee Chocolate Chip Blondies",
@@ -8,6 +9,7 @@
       "description": "Chunks of fresh cranberries and dark, milk, and white chocolate chips dress up oatmeal cookies for the holidays."
     },
     {
+      "id": "chashu-summer-rolls",
       "imageUrl": "/_nuxt/assets/mockImages/chocolate-chip-blondies.jpg",
       "imageAlt": "Chashu Summer Rolls image",
       "name": "Chashu Summer Rolls",
@@ -15,6 +17,7 @@
       "description": "This cake can be prepared one day ahead. Sweetened cream of coconut is available in the liquor section of most supermarkets."
     },
     {
+      "id": "tropical-fruit-salad",
       "imageUrl": "/_nuxt/assets/mockImages/chocolate-chip-blondies.jpg",
       "imageAlt": "Tropical Fruit Salad image",
       "name": "Tropical Fruit Salad",
@@ -22,6 +25,7 @@
       "description": "Lay the puff pastry over the skillet for a pretty look. Use any brand; the weight may vary, but either way you'll have enough to work with."
     },
     {
+      "id": "gluten-free-almond-cake-with-berries",
       "imageUrl": "/_nuxt/assets/mockImages/chocolate-chip-blondies.jpg",
       "imageAlt": "Gluten-Free Almond Cake with Berries image",
       "name": "Gluten-Free Almond Cake with Berries",
@@ -29,6 +33,7 @@
       "description": "Strawberry salad is a classic Southern side that works for any occasion."
     },
     {
+      "id": "strawberry-oat-muffins",
       "imageUrl": "/_nuxt/assets/mockImages/chocolate-chip-blondies.jpg",
       "imageAlt": "Strawberry Oat Muffins image",
       "name": "Strawberry Oat Muffins",
@@ -36,6 +41,7 @@
       "description": "Chunks of fresh cranberries and dark, milk, and white chocolate chips dress up oatmeal cookies for the holidays."
     },
     {
+      "id": "pumpkin-kale-patties-with-coconut-cilantro-rice",
       "imageUrl": "/_nuxt/assets/mockImages/chocolate-chip-blondies.jpg",
       "imageAlt": "Pumpkin Kale Patties with Coconut Cilantro Rice image",
       "name": "Pumpkin Kale Patties with Coconut Cilantro Rice",
