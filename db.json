@@ -2,7 +2,7 @@
   "recipes": [
     {
       "id": "coffee-chocolate-chip-blondies",
-      "imageUrl": "/_nuxt/assets/mockImages/chocolate-chip-blondies.jpg",
+      "imageUrl": "/_nuxt/assets/mockImages/coffee-chocolate-chip-blondies.jpg",
       "imageAlt": "Coffee Chocolate Chip Blondies image",
       "name": "Coffee Chocolate Chip Blondies",
       "tag": "Healthy",
@@ -10,7 +10,7 @@
     },
     {
       "id": "chashu-summer-rolls",
-      "imageUrl": "/_nuxt/assets/mockImages/chocolate-chip-blondies.jpg",
+      "imageUrl": "/_nuxt/assets/mockImages/chashu-summer-rolls.jpg",
       "imageAlt": "Chashu Summer Rolls image",
       "name": "Chashu Summer Rolls",
       "tag": "Sweet",
@@ -18,7 +18,7 @@
     },
     {
       "id": "tropical-fruit-salad",
-      "imageUrl": "/_nuxt/assets/mockImages/chocolate-chip-blondies.jpg",
+      "imageUrl": "/_nuxt/assets/mockImages/tropical-fruit-salad.jpg",
       "imageAlt": "Tropical Fruit Salad image",
       "name": "Tropical Fruit Salad",
       "tag": "Fresh",
@@ -26,7 +26,7 @@
     },
     {
       "id": "gluten-free-almond-cake-with-berries",
-      "imageUrl": "/_nuxt/assets/mockImages/chocolate-chip-blondies.jpg",
+      "imageUrl": "/_nuxt/assets/mockImages/gluten-free-almond-cake-with-berries.jpg",
       "imageAlt": "Gluten-Free Almond Cake with Berries image",
       "name": "Gluten-Free Almond Cake with Berries",
       "tag": "Healthy",
@@ -34,7 +34,7 @@
     },
     {
       "id": "strawberry-oat-muffins",
-      "imageUrl": "/_nuxt/assets/mockImages/chocolate-chip-blondies.jpg",
+      "imageUrl": "/_nuxt/assets/mockImages/strawberry-oat-muffins.jpg",
       "imageAlt": "Strawberry Oat Muffins image",
       "name": "Strawberry Oat Muffins",
       "tag": "Sweet",
@@ -42,7 +42,7 @@
     },
     {
       "id": "pumpkin-kale-patties-with-coconut-cilantro-rice",
-      "imageUrl": "/_nuxt/assets/mockImages/chocolate-chip-blondies.jpg",
+      "imageUrl": "/_nuxt/assets/mockImages/pumpkin-kale-patties-with-coconut-cilantro-rice.jpg",
       "imageAlt": "Pumpkin Kale Patties with Coconut Cilantro Rice image",
       "name": "Pumpkin Kale Patties with Coconut Cilantro Rice",
       "tag": "Fresh",
