@@ -12,7 +12,14 @@
       "difficulty": "Advanced",
       "servings": "6",
       "prepTime": "30",
-      "cookTime": "10"
+      "cookTime": "10",
+      "ingredients": [
+        "1 cup ramen noodles",
+        "¼ cup ramen noodles",
+        "½ cup sunflower seeds",
+        "1 oz romaine lettuce",
+        "1 cup grated parmesan"
+      ]
     },
     {
       "id": "chashu-summer-rolls",
@@ -26,7 +33,14 @@
       "difficulty": "Beginner",
       "servings": "12",
       "prepTime": "40",
-      "cookTime": "30"
+      "cookTime": "30",
+      "ingredients": [
+        "1 cup sweetened flaked coconut",
+        "¾ cup dry-roasted macadamia nuts",
+        "½ cup baking powder",
+        "2 cups sugar",
+        "1 tsp ground cinnamon"
+      ]
     },
     {
       "id": "tropical-fruit-salad",
@@ -40,7 +54,13 @@
       "difficulty": "Beginner",
       "servings": "4",
       "prepTime": "45",
-      "cookTime": "30"
+      "cookTime": "30",
+      "ingredients": [
+        "1 cup chopped onion",
+        "2 cups chopped cooked beef",
+        "1 tsp butter",
+        "2 large eggs"
+      ]
     },
     {
       "id": "gluten-free-almond-cake-with-berries",
@@ -54,7 +74,14 @@
       "difficulty": "Beginner",
       "servings": "6",
       "prepTime": "25",
-      "cookTime": "15"
+      "cookTime": "15",
+      "ingredients": [
+        "1 pt ramen noodles",
+        "¼ cup sliced almonds",
+        "¼ cup sunflower seeds",
+        "1 oz romaine lettuce",
+        "1 cup grated parmesan"
+      ]
     },
     {
       "id": "strawberry-oat-muffins",
@@ -68,7 +95,15 @@
       "difficulty": "Advanced",
       "servings": "12",
       "prepTime": "45",
-      "cookTime": "30"
+      "cookTime": "30",
+      "ingredients": [
+        "1 cup all purpose flour",
+        "½ cup baking soda",
+        "¼ tsp cinnamon",
+        "1 large egg",
+        "1 cup old-fashioned oats",
+        "½ cup semisweet chocolate chips"
+      ]
     },
     {
       "id": "pumpkin-kale-patties-with-coconut-cilantro-rice",
@@ -82,7 +117,15 @@
       "difficulty": "Intermediate",
       "servings": "4",
       "prepTime": "15",
-      "cookTime": "25"
+      "cookTime": "25",
+      "ingredients": [
+        "⅓ cup sifted all purpose flour",
+        "1 cup sweetened flaked coconut",
+        "1 cup dry-roasted macadamia nuts",
+        "1 drop salt",
+        "4 large eggs",
+        "2 cups finely grated peeled carrots"
+      ]
     }
   ]
 }
