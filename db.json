@@ -8,7 +8,11 @@
       "tag": "Healthy",
       "description": "Chunks of fresh cranberries and dark, milk, and white chocolate chips dress up oatmeal cookies for the holidays.",
       "date": "July 12, 2018",
-      "likes": "17"
+      "likes": "17",
+      "difficulty": "Advanced",
+      "servings": "6",
+      "prepTime": "30",
+      "cookTime": "10"
     },
     {
       "id": "chashu-summer-rolls",
@@ -18,7 +22,11 @@
       "tag": "Sweet",
       "description": "This cake can be prepared one day ahead. Sweetened cream of coconut is available in the liquor section of most supermarkets.",
       "date": "July 03, 2018",
-      "likes": "3"
+      "likes": "3",
+      "difficulty": "Beginner",
+      "servings": "12",
+      "prepTime": "40",
+      "cookTime": "30"
     },
     {
       "id": "tropical-fruit-salad",
@@ -28,7 +36,11 @@
       "tag": "Fresh",
       "description": "Lay the puff pastry over the skillet for a pretty look. Use any brand; the weight may vary, but either way you'll have enough to work with.",
       "date": "June 20, 2018",
-      "likes": "9"
+      "likes": "9",
+      "difficulty": "Beginner",
+      "servings": "4",
+      "prepTime": "45",
+      "cookTime": "30"
     },
     {
       "id": "gluten-free-almond-cake-with-berries",
@@ -38,7 +50,11 @@
       "tag": "Healthy",
       "description": "Strawberry salad is a classic Southern side that works for any occasion.",
       "date": "December 12, 2018",
-      "likes": "20"
+      "likes": "20",
+      "difficulty": "Beginner",
+      "servings": "6",
+      "prepTime": "25",
+      "cookTime": "15"
     },
     {
       "id": "strawberry-oat-muffins",
@@ -48,7 +64,11 @@
       "tag": "Sweet",
       "description": "Chunks of fresh cranberries and dark, milk, and white chocolate chips dress up oatmeal cookies for the holidays.",
       "date": "January 16, 2018",
-      "likes": "11"
+      "likes": "11",
+      "difficulty": "Advanced",
+      "servings": "12",
+      "prepTime": "45",
+      "cookTime": "30"
     },
     {
       "id": "pumpkin-kale-patties-with-coconut-cilantro-rice",
@@ -58,7 +78,11 @@
       "tag": "Fresh",
       "description": "This cake can be prepared one day ahead. Sweetened cream of coconut is available in the liquor section of most supermarkets.",
       "date": "November 02, 2018",
-      "likes": "15"
+      "likes": "15",
+      "difficulty": "Intermediate",
+      "servings": "4",
+      "prepTime": "15",
+      "cookTime": "25"
     }
   ]
 }
