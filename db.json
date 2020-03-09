@@ -6,7 +6,9 @@
       "imageAlt": "Coffee Chocolate Chip Blondies image",
       "name": "Coffee Chocolate Chip Blondies",
       "tag": "Healthy",
-      "description": "Chunks of fresh cranberries and dark, milk, and white chocolate chips dress up oatmeal cookies for the holidays."
+      "description": "Chunks of fresh cranberries and dark, milk, and white chocolate chips dress up oatmeal cookies for the holidays.",
+      "date": "July 12, 2018",
+      "likes": "17"
     },
     {
       "id": "chashu-summer-rolls",
@@ -14,7 +16,9 @@
       "imageAlt": "Chashu Summer Rolls image",
       "name": "Chashu Summer Rolls",
       "tag": "Sweet",
-      "description": "This cake can be prepared one day ahead. Sweetened cream of coconut is available in the liquor section of most supermarkets."
+      "description": "This cake can be prepared one day ahead. Sweetened cream of coconut is available in the liquor section of most supermarkets.",
+      "date": "July 03, 2018",
+      "likes": "3"
     },
     {
       "id": "tropical-fruit-salad",
@@ -22,7 +26,9 @@
       "imageAlt": "Tropical Fruit Salad image",
       "name": "Tropical Fruit Salad",
       "tag": "Fresh",
-      "description": "Lay the puff pastry over the skillet for a pretty look. Use any brand; the weight may vary, but either way you'll have enough to work with."
+      "description": "Lay the puff pastry over the skillet for a pretty look. Use any brand; the weight may vary, but either way you'll have enough to work with.",
+      "date": "June 20, 2018",
+      "likes": "9"
     },
     {
       "id": "gluten-free-almond-cake-with-berries",
@@ -30,7 +36,9 @@
       "imageAlt": "Gluten-Free Almond Cake with Berries image",
       "name": "Gluten-Free Almond Cake with Berries",
       "tag": "Healthy",
-      "description": "Strawberry salad is a classic Southern side that works for any occasion."
+      "description": "Strawberry salad is a classic Southern side that works for any occasion.",
+      "date": "December 12, 2018",
+      "likes": "20"
     },
     {
       "id": "strawberry-oat-muffins",
@@ -38,7 +46,9 @@
       "imageAlt": "Strawberry Oat Muffins image",
       "name": "Strawberry Oat Muffins",
       "tag": "Sweet",
-      "description": "Chunks of fresh cranberries and dark, milk, and white chocolate chips dress up oatmeal cookies for the holidays."
+      "description": "Chunks of fresh cranberries and dark, milk, and white chocolate chips dress up oatmeal cookies for the holidays.",
+      "date": "January 16, 2018",
+      "likes": "11"
     },
     {
       "id": "pumpkin-kale-patties-with-coconut-cilantro-rice",
@@ -46,7 +56,9 @@
       "imageAlt": "Pumpkin Kale Patties with Coconut Cilantro Rice image",
       "name": "Pumpkin Kale Patties with Coconut Cilantro Rice",
       "tag": "Fresh",
-      "description": "This cake can be prepared one day ahead. Sweetened cream of coconut is available in the liquor section of most supermarkets."
+      "description": "This cake can be prepared one day ahead. Sweetened cream of coconut is available in the liquor section of most supermarkets.",
+      "date": "November 02, 2018",
+      "likes": "15"
     }
   ]
 }
